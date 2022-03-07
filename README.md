@@ -1,3 +1,3 @@
-# nodeJS-course by [https://www.youtube.com/channel/UCY38RvRIxYODO4penyxUwTg](Dave Gray)
+# nodeJS-course by [Dave Gray](https://www.youtube.com/channel/UCY38RvRIxYODO4penyxUwTg)
 
-This is the code I've written while following [https://youtu.be/f2EqECiTBL8](Dave Gray's tutorial)
+This is the code I've written while following [the tutorial](https://youtu.be/f2EqECiTBL8)
